@@ -1,3 +1,3 @@
 # Portfolio
-<img src="../country.png">
-<img src="../razor.png">
+<img src="/country.png">
+<img src="/razor.png">
